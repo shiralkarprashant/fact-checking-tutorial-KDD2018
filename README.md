@@ -11,8 +11,11 @@ anomaly detection, fraud detection, and more.
 
 Here we present three families of fact-checking
 approaches, based on the domains to which they apply:
-(a) _text_ documents (b) _graphs_ and _knowledge bases_
-and (c) _relational_ databases.
+
+1. _text_ documents 
+2. _graphs_ and _knowledge bases_, and 
+3. _relational_ databases.
+
 The emphasis is on the intuition behind each method,
 as well as on a practitioner's guide, 
 highlighting the applicability of each method to each setting.
