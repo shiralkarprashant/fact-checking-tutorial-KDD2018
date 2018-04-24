@@ -22,6 +22,14 @@ highlighting the applicability of each method to each setting.
 
 For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/blob/master/docs/FactCheckingTutorial.pdf)
 
+## Target audience
+
+Data Scientists and practitioners, with interest in Knowledge Bases, Database Quality, Truth Finding and Discovery, Credibility Analysis.
+
+## Pre-requisites
+
+A B.Sc. in computer science should suffice. The tutorial assumes familiarity with basic linear algebra, calculus, discrete math; as well as with fundamentals of  Machine Learning (classification, clustering, matrix factorization).
+
 ## Instructors
 1. Xin Luna Dong (Amazon)
 2. Christos Faloutsos (Amazon and CMU)
