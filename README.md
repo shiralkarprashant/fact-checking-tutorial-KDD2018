@@ -1,5 +1,3 @@
-# Fact Checking: Theory and Practice (A Tutorial at KDD 2018)
-
 ## Description
 
 Was Da Vinci born in Florence?
