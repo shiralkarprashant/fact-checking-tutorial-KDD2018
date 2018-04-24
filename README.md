@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Fact Checking: theory and practice (A Tutorial at KDD 2018)
 
-You can use the [editor on GitHub](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Instructors
+1. Xin Luna Dong (Amazon)
+2. Christos Faloutsos (Amazon and CMU)
+3. Xian Li (Amazon)
+4. Subhabrata Mukherjee (Amazon)
+5. Prashant Shiralkar (Amazon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Short description
 
-### Markdown
+Was Da Vinci born in Florence?
+Does patient 'Johnson' really have 300 heart-beats
+per minute?
+Checking the accuracy of facts is vital,
+for question answering, data cleaning,
+anomaly detection, fraud detection, and more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here we present three families of fact-checking
+approaches, based on the domains to which they apply:
+(a) \textit{text} documents (b) \textit{graphs} and \textit{knowledge bases}
+and (c) \textit{relational} databases.
+The emphasis is on the intuition behind each method,
+as well as on a practitioner's guide, 
+highlighting the applicability of each method to each setting.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
