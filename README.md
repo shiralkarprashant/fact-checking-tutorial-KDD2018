@@ -22,6 +22,10 @@ highlighting the applicability of each method to each setting.
 
 For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/blob/master/docs/FactCheckingTutorial.pdf)
 
+## Slides (Preliminary version)
+
+[Fact Checking: Theory and Practice (KDD 2018)](https://drive.google.com/open?id=1JGHWS_YQhpESbWhwedG_l2feYc6Bq9FdAy1Ls3uHaPg)
+
 ## Target audience
 
 Data Scientists and practitioners, with interest in Knowledge Bases, Database Quality, Truth Finding and Discovery, Credibility Analysis.
