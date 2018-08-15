@@ -22,9 +22,16 @@ highlighting the applicability of each method to each setting.
 
 For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/blob/master/docs/FactCheckingTutorial.pdf)
 
-## Slides (Preliminary version)
+## Outline
 
-[Fact Checking: Theory and Practice (KDD 2018)](https://drive.google.com/open?id=1JGHWS_YQhpESbWhwedG_l2feYc6Bq9FdAy1Ls3uHaPg)
+### 1. Introduction
+### 2. Fact Checking from Structured Data
+### 3.A Fact Checking from Graph
+### 3.B Anomaly Detection from Graphs
+### 4. Fact Checking from Text
+### 5. Conclusion
+
+Slides (Preliminary version): [Fact Checking: Theory and Practice (KDD 2018)](https://drive.google.com/open?id=1JGHWS_YQhpESbWhwedG_l2feYc6Bq9FdAy1Ls3uHaPg)
 
 ## Target audience
 
