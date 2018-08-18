@@ -24,14 +24,14 @@ For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)]
 
 ## Outline
 
-### Fact Checking: Theory and Practice (KDD 2018) [[All slides](bit.ly/factcheck-kdd2018-full)]
+### Fact Checking: Theory and Practice (KDD 2018) [[All slides](http://bit.ly/factcheck-kdd2018-full)]
 
-### 1. Introduction [[Slides](bit.ly/factcheck-kdd2018-intro)]
-### 2. Fact Checking from Structured Data [[Slides](bit.ly/factcheck-kdd2018-strudata)]
-### 3. Fact Checking from Graph [[Slides](bit.ly/factcheck-kdd2018-graph)]
-### 4. Anomaly Detection from Graphs [[Slides](bit.ly/factcheck-kdd2018-anomaly)]
-### 5. Fact Checking from Text [[Slides](bit.ly/factcheck-kdd2018-text)]
-### 6. Conclusion [[Slides](bit.ly/factcheck-kdd2018-conclusion)]
+### 1. Introduction [[Slides](http://bit.ly/factcheck-kdd2018-intro)]
+### 2. Fact Checking from Structured Data [[Slides](http://bit.ly/factcheck-kdd2018-strudata)]
+### 3. Fact Checking from Graph [[Slides](http://bit.ly/factcheck-kdd2018-graph)]
+### 4. Anomaly Detection from Graphs [[Slides](http://bit.ly/factcheck-kdd2018-anomaly)]
+### 5. Fact Checking from Text [[Slides](http://bit.ly/factcheck-kdd2018-text)]
+### 6. Conclusion [[Slides](http://bit.ly/factcheck-kdd2018-conclusion)]
 
 ## Target audience
 
